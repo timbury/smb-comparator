@@ -1,3 +1,6 @@
+This is the README from the original guvcview 1.7.3, soon to be replaced by the README for the Timbury SMB-Comparator which is intended to be used to create an affordable system for the inspection of manufactured parts by small-to-medium businesses. The guvcview code will become a subsystem of the final project. Comments and suggestions are welcome.
+
+
 GTK UVC VIEWER (guvcview)
 *************************
 
